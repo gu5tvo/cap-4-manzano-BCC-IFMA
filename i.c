@@ -5,8 +5,6 @@ int main()
     int numv[5];
     // numv[4] = {'A' =  , 'B', 'C', 'D', 'E'};
     int  maior, menor;
-    maior = numv[1];
-    menor = numv[1];
     for (int i = 0; i < 5; i++)
     {
         printf("digite o valor de %c: ", i+65);

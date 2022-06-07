@@ -1,0 +1,5 @@
+    ler os valores inteiros A e B
+    se A > B
+        diferenca <= A - B
+    senão 
+        diferenca <= B - A

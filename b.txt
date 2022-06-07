@@ -1,0 +1,7 @@
+ler o valor N
+se  N > 0
+    mostrar N
+senao
+    N <= N + (N*-2)
+    mostrar N
+fim

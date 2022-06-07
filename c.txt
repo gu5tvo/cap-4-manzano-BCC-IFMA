@@ -1,0 +1,7 @@
+    ler as notas n1, n2, n3, n4
+    md <= (n1 + n2 + n3 + n4) / 4;
+    se md > 5
+        aprensentar "aprovado";
+    senao 
+        aprensentar "reprovardo;
+    apresentar md;

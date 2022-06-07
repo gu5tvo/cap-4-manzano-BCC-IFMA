@@ -1,0 +1,23 @@
+ler o valor a
+maior = a
+menor = a
+meio = a
+
+ler o valor b
+se b > maior
+    maior = b
+se b < menor
+    menor = b
+senao b = meio
+
+ler o valor c
+se c > maior
+    maior = c
+se c < menor
+    menor = c
+senao c = meio
+
+display 
+menor
+meio
+maior

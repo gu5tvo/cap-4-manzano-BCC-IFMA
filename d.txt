@@ -1,0 +1,15 @@
+ler os as notas n1, n2, n3 e n4
+md1 <= (n1+n2+n3+n4)/4
+se md1 >= 7 
+    apresentar "aprovado"
+    apresentar md1
+senão ler a nota n5
+    md2 <= (md1 + n5) / 2
+    se md2 > 5
+        apresentar "aprovado em exame "
+    senão
+        apresentar "reprovado"
+    apresentar md2
+fim
+
+
